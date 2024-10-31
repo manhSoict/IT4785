@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         "GBP-JPY" to 198.56, "JPY-GBP" to 0.0050,
         "USD-VND" to 25294.94, "VND-USD" to 0.000041,
         "EUR-VND" to 27333.0, "VND-EUR" to 0.000035
-    )
+    )ơ
 
     private val currencyCodes = mapOf(
         "United States - Dollar" to "USD",
